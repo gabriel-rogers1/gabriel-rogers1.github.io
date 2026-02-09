@@ -16,7 +16,7 @@ Each project includes renders, exports, and documentation intended for technical
 
 ## Selected Projects
 
-### 🔧 Fusion Bracket Assembly
+### Fusion Bracket Assembly
 **Parametric mechanical assembly demonstrating constraint-driven design and fabrication readiness.**
 
 - Clean sketch-driven timelines
@@ -31,7 +31,7 @@ https://github.com/gabriel-rogers1/fusion-bracket-assembly
 
 ---
 
-### 🏗️ BIM Telecom Room Coordination
+### BIM Telecom Room Coordination
 **Sanitized BIM sample demonstrating system layout and coordination principles.**
 
 - Equipment layout and clearance zones
@@ -47,7 +47,7 @@ https://github.com/gabriel-rogers1/bim-telecom-room-coordination
 
 ---
 
-### 🚁 Tiny Whoop Drone – X Frame Body
+### Tiny Whoop Drone – X Frame Body
 **Lightweight drone body designed for printability, balance, and component clearance.**
 
 - Parametric X-frame geometry
